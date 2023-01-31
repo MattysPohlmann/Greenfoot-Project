@@ -1,1 +1,3 @@
 # Greenfoot-Project
+25.01. Mir wurde gesagt, dass ich das derzeitige Projekt auf Greenfoot erstelen soll. Da ich nun eine neue Seite zum coden nutzte, musste ich mich erstmal mit dem Vorgang auskennen, weshalb ich die ersten Stunden damit verbrachte auf https://www.greenfoot.org/doc/joy-of-code das System zu lernen.
+31.01 Ich habe mir nun ein paar Codes angeguckt und habe schon manches vertanden, jedoch werde ich noch Zeit brauchen die Codes eigenhändig schreiben zu können. Ich habe jedoch schon einen Gedanken was für ein Projekt ich erstellen möchte. Man läuft über Straßen und muss dem Verkehr immer ausweichen. das Ziel wäre auf die andere Straßenseite zu gelangen.
