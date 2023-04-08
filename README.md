@@ -27,6 +27,7 @@ Ich realisiere, dass ich manche Teile des Projekts aufgrund der Zeitnot nicht co
 
 Projektseite:
 Die neue App meinerseits wurde durch ein berühmtes Spiel inspiriert. Das Spiel Crossy Roads, welche in einer sarkastischen Weise einem lehrt, wie man Straßen überqueren sollte. An dem ist dieses Spiel auch orientiert, da es verschiedene koordinativen Fähigkeiten verbessert und das Spielerlebnis zum wiederholten Spielen anregt. 
+![image](https://user-images.githubusercontent.com/111414604/230738822-b4881558-096e-4a6c-80e2-cdbcfd28c73d.png)
 
 Das Spiel betrachtet man aus der Vogelperspektive. Zusehen ist eine sehr befahrene Straße, Bürgersteige an beiden Seiten der Straße und ein Akteur auf einem der beiden Bürgersteige. Dieser hat das Ziel die Straße zu überqueren und dabei den Autos auszuweichen. Jedes Auto ist somit eine Gefahr für den Akteur. Jedoch lauert auch noch eine weitere Gefahr. Es befinden sich auf der Insel von der breiten Straße Krokodile, welche ebenso bedeuten können, dass der Akteur die andere Straßenseite nicht erreichen wird. So muss man mit viel Vorsicht und Geschick den Akteur richtig navigieren, um das Spiel zu gewinnen.
 
